@@ -1,2 +1,3 @@
-# website
+# WebNB
+
 The webnb.dev website.
